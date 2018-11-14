@@ -1,0 +1,48 @@
+
+E:\OneDrive\Desktop\grasp-vpn>python start1.py
+=======================
+Loading data succeeded!
+=======================
+[{'headers': {'Content-Type': 'application/x-www-form-urlencoded', 'Cookie': u'NSCOOKIE%3B192%2E168%2E11%2E62%3B%2F%3BEasPortalDataCenterCode=zrxtzs; NSCOOKIE%3B192%2E168%2E11%2E62%3B%2F%3BEasPortalUserId=vZc3JRv5TcCLdKZdhm%252BHIxO33n8%253D; ANsession0000627502624372=zrxt+5aaba666_04d8ce37dc63a71f240218eb69b29816; NSCOOKIE%3B172%2E30%2E20%2E72%3B%2F%3BwmsSessionId=vPSnqpq1sUeFnud4paRlkBcqHpWBnPHd; NSCOOKIE%3B172%2E30%2E20%2E72%3B%2Fwms-c%3BJSESSIONID=E717D58E38845535B7086C6F8103261A; AN_nav1=1%3dopen%262%3dbuttons%263%3dright%264%3dclosed%265%3d5aaba666%26eoc; ANsession0000627502624372=zrxt+5aaba666_04d8ce37dc63a71f240218eb69b29816; username=013377; role_xid=487797a3815eb9106159bc5951e14953%7c%3b_YDj@56L2~_; vpn_auto=true'}, 'data': u'birthdateG=1957-07-28&custId=CP201808060043&custLevel=&custName=%E7%8E%8B%E7%88%B1%E9%93%B6&custType=1&custType1=1&expAnnualizedRateReturn=8.30&faceStatus=null&finacialManager1=013633&identityNo=310102195707284849&identityType=0&idnovalidDate=&idnovalidDateBeg=&isFact=0&orgType=&projectId=8c25e83170b94034a252eefc2beecc57&recommendedChannels=&recommendedChannelsRemarks=&reserveId=null&reserveMoney=3000000&reserveMoneyCapital=%E5%8F%81%E4%BD%B0%E4%B8%87%E5%85%83%E6%95%B4'}, {'headers': {'Content-Type': 'application/x-www-form-urlencoded', 'Cookie': u'NSCOOKIE%3B192%2E168%2E11%2E62%3B%2F%3BEasPortalDataCenterCode=zrxtzs; NSCOOKIE%3B192%2E168%2E11%2E62%3B%2F%3BEasPortalUserId=vZc3JRv5TcCLdKZdhm%252BHIxO33n8%253D; ANsession0000627502624372=zrxt+5aaba666_04d8ce37dc63a71f240218eb69b29816; NSCOOKIE%3B172%2E30%2E20%2E72%3B%2F%3BwmsSessionId=vPSnqpq1sUeFnud4paRlkBcqHpWBnPHd; NSCOOKIE%3B172%2E30%2E20%2E72%3B%2Fwms-c%3BJSESSIONID=E717D58E38845535B7086C6F8103261A; AN_nav1=1%3dopen%262%3dbuttons%263%3dright%264%3dclosed%265%3d5aaba666%26eoc; ANsession0000627502624372=zrxt+5aaba666_04d8ce37dc63a71f240218eb69b29816; username=013377; role_xid=487797a3815eb9106159bc5951e14953%7c%3b_YDj@56L2~_; vpn_auto=true'}, 'data': u'birthdateG=&custId=CP201808280102&custLevel=&custName=%E5%B2%B3%E5%B0%9A%E7%BE%BD&custType=1&custType1=1&expAnnualizedRateReturn=8.30&faceStatus=null&finacialManager1=013631&identityNo=310110196808025015&identityType=0&idnovalidDate=&idnovalidDateBeg=&isFact=0&orgType=&projectId=8c25e83170b94034a252eefc2beecc57&recommendedChannels=&recommendedChannelsRemarks=&reserveId=null&reserveMoney=3000000&reserveMoneyCapital=%E5%8F%81%E4%BD%B0%E4%B8%87%E5%85%83%E6%95%B4'}, {'headers': {'Content-Type': 'application/x-www-form-urlencoded', 'Cookie': u'NSCOOKIE%3B192%2E168%2E11%2E62%3B%2F%3BEasPortalDataCenterCode=zrxtzs; NSCOOKIE%3B192%2E168%2E11%2E62%3B%2F%3BEasPortalUserId=vZc3JRv5TcCLdKZdhm%252BHIxO33n8%253D; ANsession0000627502624372=zrxt+5aaba666_04d8ce37dc63a71f240218eb69b29816; NSCOOKIE%3B172%2E30%2E20%2E72%3B%2F%3BwmsSessionId=vPSnqpq1sUeFnud4paRlkBcqHpWBnPHd; NSCOOKIE%3B172%2E30%2E20%2E72%3B%2Fwms-c%3BJSESSIONID=E717D58E38845535B7086C6F8103261A; AN_nav1=1%3dopen%262%3dbuttons%263%3dright%264%3dclosed%265%3d5aaba666%26eoc; ANsession0000627502624372=zrxt+5aaba666_04d8ce37dc63a71f240218eb69b29816; username=013377; role_xid=487797a3815eb9106159bc5951e14953%7c%3b_YDj@56L2~_; vpn_auto=true'}, 'data': u'birthdateG=1975-06-14&custId=CP201808280083&custLevel=&custName=%E9%A1%BE%E5%9D%9A%E6%AF%85&custType=1&custType1=1&expAnnualizedRateReturn=8.30&faceStatus=null&finacialManager1=%E6%9D%8E%E4%BA%AC%28013377%29&identityNo=320504197506142014&identityType=0&idnovalidDate=&idnovalidDateBeg=&isFact=0&orgType=&projectId=8c25e83170b94034a252eefc2beecc57&recommendedChannels=&recommendedChannelsRemarks=&reserveId=null&reserveMoney=3000000&reserveMoneyCapital=%E5%8F%81%E4%BD%B0%E4%B8%87%E5%85%83%E6%95%B4'}]
+=======================
+User 0 started at:
+2018-08-29 10:29:59.928
+=======================
+User 1 started at:
+2018-08-29 10:29:59.944
+=======================
+User 2 started at:
+2018-08-29 10:29:59.958
+C:\Python27\lib\site-packages\urllib3\connectionpool.py:858: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+C:\Python27\lib\site-packages\urllib3\connectionpool.py:858: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+C:\Python27\lib\site-packages\urllib3\connectionpool.py:858: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+=======================
+{"msg":"排队中，排队号为1","reserveId":"201808290000000166","num":"1~10","custId":"CP201808280083","type":true,"projectId":"8c25e83170b94034a252eefc2beecc57"}
+C:\Python27\lib\site-packages\urllib3\connectionpool.py:858: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+=======================
+{"msg":"排队中，排队号为13","reserveId":"201808290000000178","num":"11~20","custId":"CP201808060043","type":true,"projectId":"8c25e83170b94034a252eefc2beecc57"}
+=======================
+{"msg":"排队中，排队号为14","reserveId":"201808290000000179","num":"11~20","custId":"CP201808280102","type":true,"projectId":"8c25e83170b94034a252eefc2beecc57"}
+C:\Python27\lib\site-packages\urllib3\connectionpool.py:858: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+C:\Python27\lib\site-packages\urllib3\connectionpool.py:858: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+('Canceled: ', 0)
+('Canceled: ', 1)
+('Canceled: ', 2)
+=======================
+{"msg":"排队中，排队号为135","reserveId":"201808290000000300","num":"131~140","custId":"CP201808280083","type":true,"projectId":"8c25e83170b94034a252eefc2beecc57"}
+=======================
+{"msg":"排队中，排队号为157","reserveId":"201808290000000322","num":"151~160","custId":"CP201808060043","type":true,"projectId":"8c25e83170b94034a252eefc2beecc57"}
+=======================
+{"msg":"排队中，排队号为158","reserveId":"201808290000000323","num":"151~160","custId":"CP201808280102","type":true,"projectId":"8c25e83170b94034a252eefc2beecc57"}
+
+E:\OneDrive\Desktop\grasp-vpn>cmd
+Microsoft Windows [版本 10.0.17134.228]
+(c) 2018 Microsoft Corporation。保留所有权利。
+
+E:\OneDrive\Desktop\grasp-vpn>
